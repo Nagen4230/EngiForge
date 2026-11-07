@@ -1,0 +1,6 @@
+{
+  "name": "EngiForge - Cybernetic Engineering Platform",
+  "description": "An immersive cyberpunk engineering portal with neural skill affinity games, curated study labs, DIY blueprints, industry specs, and engineering squads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
