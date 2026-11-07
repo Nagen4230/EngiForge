@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/<EngiForge>/', // <--- REPLACE with your exact GitHub repository name (e.g., '/EngiForge/' or '/engiforge-cybernetic-engineering-platform/')
+    base: '/EngiForge/', // <--- Make sure this matches your exact GitHub repo name (NO angle brackets!)
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
